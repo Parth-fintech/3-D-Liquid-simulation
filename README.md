@@ -1,2 +1,2 @@
 # 3-D-Liquid-simulation
-Gesture-controlled 3D liquid simulation built in Python. Using MediaPipe for real-time hand tracking and OpenCV for rendering, users can rotate and resize a cube with hand gestures while hundreds of particles simulate fluid dynamics inside using a lightweight physics model.
+A real-time, gesture-driven 3D liquid simulation built in Python. Hand landmarks detected via MediaPipe control rotation and scaling of a cube, while OpenCV renders hundreds of particles evolving under a lightweight fluid dynamics model
